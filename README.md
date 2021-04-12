@@ -3,5 +3,5 @@ Hi, I'm Yavuz! 👋
 ✨ Favorite Tech: JavaScript, React, C# ...                                                                                                                                        
 📓 I’m currently learning JavaScript and React... 😭                                                                                                                                
 ✉️ yvzcakir10@gmail.com                                                                                                                                                             
-🎨 Portfolio: https://yvzCakir.github.io                                                                                                                                            
+🎨 Portfolio: https://github.com/yvzCakir                                                                                                                                                                          
 💼 LinkedIn: https://linkedin.com/in/yavuz-çakır-yc10/                                                                                                                              
